@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Maryam Khattak, Data Analyst, Compliance and Reporting" width="100%">
+  <img src="banner.png" alt="Maryam Khattak, Data Analyst, Compliance and Reporting" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/highlights.png" alt="9+ years in IT and data, MSc Data Analytics, Power BI reporting, Springer publication" width="100%">
+  <img src="highlights.png" alt="9+ years in IT and data, MSc Data Analytics, Power BI reporting, Springer publication" width="100%">
 </p>
 
 ## About me
@@ -21,7 +21,7 @@ Before moving into analytics I spent nine years in IT infrastructure and systems
 
 ## What I do
 
-**Dashboards and reporting.** Power BI dashboards that track installation progress, compliance and installer performance. I choose the chart to fit the question and add a short written summary so the message is clear.
+**Dashboards and reporting for energy efficiency programmes.** I build Power BI dashboards and KPI reports for UK retrofit and energy-efficiency delivery, covering installation progress, compliance status and installer performance across GLA and local-authority housing programmes. The reporting gives programme managers, delivery teams and funders a clear view of what is on track and where action is needed, backed by short written commentary.
 
 **Data validation.** Reconciling property, installation and compliance data from several systems and flagging gaps early.
 
