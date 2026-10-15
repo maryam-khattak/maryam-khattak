@@ -35,15 +35,12 @@ Before moving into analytics I spent nine years in IT infrastructure and systems
 
 ## Projects
 
-<table width="100%">
-<tr><th align="left" width="50%">Project</th><th align="left" width="50%">What it covers</th></tr>
-<tr><td><a href="https://github.com/maryam-khattak/Currency-Pair-Analysis-Anomaly-Detection">Currency Pair Analysis & Anomaly Detection</a></td><td>Time series analysis and anomaly detection</td></tr>
-<tr><td><a href="https://github.com/maryam-khattak/Predictive-Analytics-for-Netflix">Predictive Analytics for Netflix</a></td><td>Predictive modelling</td></tr>
-<tr><td><a href="https://github.com/maryam-khattak/Comprehensive-Data-Analysis-Predictive-Modeling-for-Marketing-Campaigns">Marketing Campaign Predictive Modelling</a></td><td>Campaign data analysis and prediction</td></tr>
-<tr><td><a href="https://github.com/maryam-khattak/Statistical-Modelling-and-Forecasting-Case-Study">Statistical Modelling and Forecasting</a></td><td>Forecasting case study in R</td></tr>
-<tr><td><a href="https://github.com/maryam-khattak/UK-Oil-and-Gas-Reserves-and-Resources-Analysis">UK Oil and Gas Reserves Analysis</a></td><td>Public data analysis</td></tr>
-<tr><td><a href="https://github.com/maryam-khattak/Blue-Sky-Online-Retailer-Data-Warehouse-Implementation">Online Retailer Data Warehouse</a></td><td>Data warehouse design in T-SQL</td></tr>
-</table>
+- [Currency Pair Analysis & Anomaly Detection](https://github.com/maryam-khattak/Currency-Pair-Analysis-Anomaly-Detection) – Time series analysis and anomaly detection
+- [Predictive Analytics for Netflix](https://github.com/maryam-khattak/Predictive-Analytics-for-Netflix) – Predictive modelling
+- [Marketing Campaign Predictive Modelling](https://github.com/maryam-khattak/Comprehensive-Data-Analysis-Predictive-Modeling-for-Marketing-Campaigns) – Campaign data analysis and prediction
+- [Statistical Modelling and Forecasting](https://github.com/maryam-khattak/Statistical-Modelling-and-Forecasting-Case-Study) – Forecasting case study in R
+- [UK Oil and Gas Reserves Analysis](https://github.com/maryam-khattak/UK-Oil-and-Gas-Reserves-and-Resources-Analysis) – Public data analysis
+- [Online Retailer Data Warehouse](https://github.com/maryam-khattak/Blue-Sky-Online-Retailer-Data-Warehouse-Implementation) – Data warehouse design in T-SQL
 
 ## Let's talk
 
