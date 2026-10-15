@@ -1,6 +1,6 @@
 👋 Hi, I'm Maryam Khattak.
  
-💼 I'm a data analyst based in Reading, UK, working in compliance and reporting for energy efficiency and retrofit programmes.
+💼 I'm a data analyst based in London, UK, working in compliance and reporting for energy efficiency and retrofit programmes.
  
 👀 I'm interested in reporting dashboards and turning data into clear, readable visuals. My work typically focuses on data validation, KPI reporting, and audit-ready data for housing programmes. The tools I primarily use are Power BI, SQL, Excel, Python, and R.
  
