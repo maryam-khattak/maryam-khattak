@@ -1,69 +1,49 @@
-# Hi, I'm Maryam Khattak 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Maryam Khattak, Data Analyst, Compliance and Reporting" width="100%">
+</p>
 
-📊 Data Analyst | Business Systems & Reporting Professional
+<p align="center">
+  <a href="https://www.linkedin.com/in/maryam-khattak">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://maryamkhattak.wixsite.com/data-analyst">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-12830-0_20">Publication</a> &nbsp;·&nbsp;
+  <a href="mailto:maryamkhattak@hotmail.com">Email</a>
+</p>
 
-I am a data-driven professional with experience in Data Analytics, Business Systems, Reporting, HRMS, and IT Infrastructure. I hold an MSc in Data Analytics and enjoy transforming complex data into meaningful insights that support business decisions.
+<p align="center">
+  <img src="assets/highlights.png" alt="9+ years in IT and data, MSc Data Analytics, Power BI reporting, Springer publication" width="100%">
+</p>
 
-## 🚀 What I Do
+## About me
 
-- Data Analysis & Reporting
-- Power BI Dashboard Development
-- SQL Data Extraction & Validation
-- Business Systems & Process Improvement
-- HRMS Testing & User Acceptance Testing (UAT)
-- Data Quality, Reconciliation & Trend Analysis
-- Stakeholder Communication & Requirements Gathering
+I'm a data analyst in Reading, UK, with an MSc in Data Analytics from London Metropolitan University. I work with retrofit and energy-efficiency programme data, checking it across systems and turning it into dashboards and KPI reports that people can read at a glance.
 
-## 🛠️ Tools & Technologies
+Before moving into analytics I spent nine years in IT infrastructure and systems roles, which is why I care about data that is accurate, well documented and ready for audit.
 
-- SQL
-- Power BI
-- Excel
-- Python
-- R
-- Azure
-- Microsoft 365
-- HRMS Systems
-- Git & GitHub
+## What I do
 
-## 💼 Experience Highlights
+**Dashboards and reporting.** Power BI dashboards that track installation progress, compliance and installer performance. I choose the chart to fit the question and add a short written summary so the message is clear.
 
-### Sureserve
-- Reporting, operational analysis, and stakeholder support
-- Data validation and administrative process improvements
-- Customer and contractor management activities
+**Data validation.** Reconciling property, installation and compliance data from several systems and flagging gaps early.
 
-### Komatsu Pakistan Soft
-- Managed IT infrastructure and business systems
-- Coordinated HRMS requirements, testing, and releases
-- Worked with development teams on UAT and system improvements
-- Researched and tested Microsoft technologies including Azure and Intune solutions
+**Analysis and modelling.** Forecasting, anomaly detection and predictive models in Python and R.
 
-## 📈 Featured Projects
+## Tools
 
-🔗 Currency Pair Analysis & Anomaly Detection
+**Reporting:** Power BI, Excel  
+**Data:** SQL, Python, R  
+**Platforms:** Azure, Microsoft 365, Git
 
-🔗 Predictive Analytics for Netflix
+## Projects
 
-🔗 Marketing Campaign Predictive Modeling
+| Project | What it covers |
+|---|---|
+| [Currency Pair Analysis & Anomaly Detection](https://github.com/maryam-khattak/Currency-Pair-Analysis-Anomaly-Detection) | Time series analysis and anomaly detection |
+| [Predictive Analytics for Netflix](https://github.com/maryam-khattak/Predictive-Analytics-for-Netflix) | Predictive modelling |
+| [Marketing Campaign Predictive Modelling](https://github.com/maryam-khattak/Comprehensive-Data-Analysis-Predictive-Modeling-for-Marketing-Campaigns) | Campaign data analysis and prediction |
+| [Statistical Modelling and Forecasting](https://github.com/maryam-khattak/Statistical-Modelling-and-Forecasting-Case-Study) | Forecasting case study in R |
+| [UK Oil and Gas Reserves Analysis](https://github.com/maryam-khattak/UK-Oil-and-Gas-Reserves-and-Resources-Analysis) | Public data analysis |
+| [Online Retailer Data Warehouse](https://github.com/maryam-khattak/Blue-Sky-Online-Retailer-Data-Warehouse-Implementation) | Data warehouse design in T-SQL |
 
-🔗 Statistical Modelling & Forecasting
+## Let's talk
 
-🔗 UK Oil & Gas Resources Analysis
-
-## 🎓 Certifications
-
-- Power BI Essential Training
-- Introduction to Data Analysis using Microsoft Excel
-- Big Data Analytics with Hadoop & Apache Spark
-- Cisco CCNA
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/maryam-khattak
-- Email: maryamkhattak@hotmail.com
-
----
-
-*"Turning data into actionable business insights."*
-``
+I'm looking for Data or Reporting Analyst roles in the UK. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/maryam-khattak) or [email](mailto:maryamkhattak@hotmail.com).
