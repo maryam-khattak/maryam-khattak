@@ -44,4 +44,4 @@ Before moving into analytics I spent nine years in IT infrastructure and systems
 
 ## Let's talk
 
-I'm looking for Data or Reporting Analyst roles in the UK. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/maryam-khattak) or [email](mailto:maryamkhattak@hotmail.com).
+I'm looking for Data or Reporting Analyst roles. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/maryam-khattak) or [email](mailto:maryamkhattak@hotmail.com).
